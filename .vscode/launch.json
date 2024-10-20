@@ -1,0 +1,189 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ChessGame",
+      "request": "launch",
+      "mainClass": "malas.ChessGame",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Diskon",
+      "request": "launch",
+      "mainClass": "LatihanPertemuan6.Diskon",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "KonversiSuhu",
+      "request": "launch",
+      "mainClass": "LatihanPertemuan6.KonversiSuhu",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "MaksimalInteger",
+      "request": "launch",
+      "mainClass": "LatihanPertemuan6.MaksimalInteger",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "MenentukanGanjilGenap",
+      "request": "launch",
+      "mainClass": "LatihanPertemuan6.MenentukanGanjilGenap",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "MengurutkanArray",
+      "request": "launch",
+      "mainClass": "LatihanPertemuan6.MengurutkanArray",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "sks",
+      "request": "launch",
+      "mainClass": "TugasLima.sks",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "tukar",
+      "request": "launch",
+      "mainClass": "TugasLima.tukar",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "waktu",
+      "request": "launch",
+      "mainClass": "TugasLima.waktu",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "coba",
+      "request": "launch",
+      "mainClass": "lol.coba",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "count",
+      "request": "launch",
+      "mainClass": "lol.count",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "LuasSegitiga",
+      "request": "launch",
+      "mainClass": "malas.LuasSegitiga",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "MencariNilaiTertentu",
+      "request": "launch",
+      "mainClass": "malas.MencariNilaiTertentu",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "malas.TicTacToe",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "barang",
+      "request": "launch",
+      "mainClass": "pertemuan5.barang",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "mobil",
+      "request": "launch",
+      "mainClass": "pertemuan5.mobil",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "Segitiga",
+      "request": "launch",
+      "mainClass": "pertemuan5.pertemuan5.Segitiga",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "sks(1)",
+      "request": "launch",
+      "mainClass": "pertemuan5.sks",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "tukar(1)",
+      "request": "launch",
+      "mainClass": "pertemuan5.tukar",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "waktu(1)",
+      "request": "launch",
+      "mainClass": "pertemuan5.waktu",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "percabanganif",
+      "request": "launch",
+      "mainClass": "pertemuan6.percabanganif",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "cetaklayar",
+      "request": "launch",
+      "mainClass": "variabel.cetaklayar",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "luas",
+      "request": "launch",
+      "mainClass": "variabel.luas",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "scanner",
+      "request": "launch",
+      "mainClass": "variabel.scanner",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
+      "name": "variabel",
+      "request": "launch",
+      "mainClass": "variabel.variabel",
+      "projectName": "MyFirstProject_cf8c1a89"
+    }
+  ]
+}
