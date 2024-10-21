@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PersamaanKuadrat",
+      "request": "launch",
+      "mainClass": "LatihanPertemuan6.PersamaanKuadrat",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
       "name": "ChessGame",
       "request": "launch",
       "mainClass": "malas.ChessGame",

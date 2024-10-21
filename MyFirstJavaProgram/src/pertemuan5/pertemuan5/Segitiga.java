@@ -1,4 +1,4 @@
-package pertemuan5;
+package pertemuan5.pertemuan5;
 
 import java.util.Scanner;
 import java.util.logging.Level;

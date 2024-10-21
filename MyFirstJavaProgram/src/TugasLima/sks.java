@@ -1,4 +1,4 @@
-// package TugasLima;
+package TugasLima;
 
 /*
  !! Pseudocode Aplikasi !!

@@ -1,4 +1,4 @@
-//package pertemuan5;
+package TugasLima;
 
 /*
  ! Psudocode program !

@@ -1,4 +1,4 @@
-//package pertemuan5;
+package pertemuan5;
 
 public class tukar {
   public static void main(String[] args) {
