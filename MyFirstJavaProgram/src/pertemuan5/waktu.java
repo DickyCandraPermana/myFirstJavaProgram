@@ -27,7 +27,7 @@ public class waktu {
       detikAkhir = Integer.parseInt(waktuAkhir.substring(6, 8));
 
       // Proses data detik
-      if (detikAkhir > detikAwal) {
+      if (detikAkhir >= detikAwal) {
         detikHasil += detikAkhir - detikAwal;
       } else {
         detikHasil += detikAkhir + 60 - detikAwal;
@@ -36,7 +36,7 @@ public class waktu {
       // Proses data detik end
 
       // Proses data menit
-      if (menitAkhir > menitAwal) {
+      if (menitAkhir >= menitAwal) {
         menitHasil += menitAkhir - menitAwal;
       } else {
         menitHasil += menitAkhir + 60 - menitAwal;
@@ -46,7 +46,7 @@ public class waktu {
       // Proses data menit end
 
       // Proses data jam
-      if (jamAkhir > jamAwal) {
+      if (jamAkhir >= jamAwal) {
         jamHasil += jamAkhir - jamAwal;
       }
       // Proses data jam end

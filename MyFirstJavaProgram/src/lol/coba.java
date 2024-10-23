@@ -39,7 +39,7 @@ public class coba {
         } else {
             return count * tryRecursive(count - 1);
         }
-    }
+    } 
 
     public static void lol(int count) {
         System.out.println(("Hello World! " + count));
