@@ -6,13 +6,15 @@ public class Suit {
   static Scanner Input = new Scanner(System.in);
 
   public static void main(String[] args) {
-    int compPlay = (int) Math.floor(Math.random() * 3 + 1);
+    int compPlay;
     String compTake = "";
     int userPlay;
     String userTake = "";
     boolean isPlaying = true;
 
     while (isPlaying) {
+      compPlay = (int) Math.floor(Math.random() * 3 + 1);
+
       System.out.println("1. Batu");
       System.out.println("2. Kertas");
       System.out.println("3. Gunting");
@@ -51,7 +53,6 @@ public class Suit {
       if (isPlayAgain == 't' || isPlayAgain == 'T') {
         isPlaying = false;
       }
-      compPlay = (int) Math.floor(Math.random() * 3 + 1);
     }
   }
 }

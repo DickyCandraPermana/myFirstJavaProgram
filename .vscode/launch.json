@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "perulangan",
+      "request": "launch",
+      "mainClass": "pertemuan9.perulangan",
+      "projectName": "MyFirstProject_cf8c1a89"
+    },
+    {
+      "type": "java",
       "name": "PersamaanKuadrat",
       "request": "launch",
       "mainClass": "LatihanPertemuan6.PersamaanKuadrat",
