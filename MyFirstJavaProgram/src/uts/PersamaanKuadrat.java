@@ -36,7 +36,7 @@ public class PersamaanKuadrat {
       nilaiAkar = "Khayal";
 
       System.out.println("Memiliki akar " + nilaiAkar);
-      if (a >= 0) {
+      if (a > 0) {
         System.out.println("Memiliki definit positif(grafik selalu di atas sumbu x)");
       } else {
         System.out.println("Memiliki definit negatif(grafik selalu di bawah sumbu x)");
